@@ -1,0 +1,5 @@
+.codecard { background: rgba(25,24,45,0.8); border-radius:12px; padding:16px; width:360px; box-shadow: 0 8px 24px rgba(0,0,0,0.4); }
+.codecard-dots { display:flex; gap:8px; margin-bottom:10px; }
+.dot { width:12px; height:12px; border-radius:50%; display:inline-block; }
+.dot.red{background:#ff5f56}.dot.yellow{background:#ffbd2e}.dot.green{background:#27c93f}
+.code-content{ color:#cbd5ff; font-family: 'Fira Code', monospace; font-size:14px; margin:0 }

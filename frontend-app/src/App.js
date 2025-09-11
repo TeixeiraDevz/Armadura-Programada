@@ -1,10 +1,9 @@
 import React from "react";
-import "./homepage.css";
+import "./pages/HomePage.css";
 
-
-export default function HomePage() {
+export default function App() {
   return (
-    <div className="homepage-bg">
+  <div className="homepage-bg">
       {/* Navbar */}
       <nav className="homepage-navbar">
         <span className="homepage-logo">Armadura</span>

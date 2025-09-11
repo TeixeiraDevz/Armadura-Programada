@@ -1,0 +1,8 @@
+/* Arquivos de estilo globais mínimos */
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background: #13132a;
+}
+
+a { color: inherit; text-decoration: none; }

@@ -1,0 +1,5 @@
+.nav-wrap { background: linear-gradient(180deg, rgba(19,19,42,0.9), rgba(19,19,42,0.7)); padding: 12px 32px; position: sticky; top: 0; z-index: 10; }
+.nav-inner { display:flex; align-items:center; justify-content:space-between; max-width:1200px; margin:0 auto; }
+.brand { color:#f0b3ff; font-weight:700; }
+.nav-links a { margin:0 12px; color:#fff; font-size:14px; }
+.nav-cta { background: linear-gradient(90deg,#b983ff,#f9ca24); padding:8px 16px; border-radius:20px; border:none; color:#fff; }
