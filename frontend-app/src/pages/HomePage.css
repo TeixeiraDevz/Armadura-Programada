@@ -5,24 +5,20 @@
   font-family: Inter, Arial, sans-serif;
 }
 
-.homepage-navbar {
-  display: flex;
-  .home-hero { background: linear-gradient(180deg,#13132a 0%, rgba(18,14,32,0.9) 100%); color:#fff; padding:48px 0 }
-  .home-hero .hero-inner{ max-width:1200px; margin:0 auto; display:flex; gap:32px; align-items:center; padding:0 20px }
-  .hero-left{ flex:1 }
-  .hero-title{ font-size:56px; line-height:1; background: linear-gradient(90deg,#f461a8,#f9b24a); -webkit-background-clip:text; -webkit-text-fill-color:transparent; margin:0 0 16px }
-  .hero-desc{ color:#d6d3e8; font-size:18px; max-width:540px }
-  .hero-ctas{ margin-top:20px; display:flex; gap:12px }
-  .btn{ padding:12px 22px; border-radius:28px; border:none; cursor:pointer; font-weight:700 }
-  .btn.primary{ background:linear-gradient(90deg,#b983ff,#f9ca24); color:#fff }
-  .btn.outline{ background:transparent; border:2px solid rgba(185,131,255,0.6); color:#fff }
-  .hero-footer{ margin-top:18px; color:#fff }
-  .hero-right{ width:380px }
-  .lp-section{ max-width:1100px; margin:60px auto; padding:40px 20px; color:#fff }
-  .lp-section h2{ text-align:center; margin-bottom:24px; color:#e1bff7 }
-  .lp-list{ display:flex; flex-direction:column; gap:20px }
-  .lp-item{ display:flex; align-items:flex-start; gap:16px }
-  .lp-num{ width:48px; height:48px; border-radius:50%; background:linear-gradient(90deg,#b983ff,#f9ca24); display:flex; align-items:center; justify-content:center; font-weight:700 }
-  .lp-card{ background: rgba(25,20,40,0.6); border-radius:12px; padding:16px; flex:1 }
-  .lp-card h4{ margin:0 0 8px 0; color:#d6b2ff }
-  .lp-card p{ margin:0; color:#dcd6f0 }
+/* Seção principal (hero) */
+.home-hero { background: linear-gradient(180deg,#13132a 0%, rgba(18,14,32,0.9) 100%); color:#fff; padding:48px 0 }
+.home-hero .hero-inner{ max-width:1200px; margin:0 auto; display:flex; gap:32px; align-items:center; padding:0 20px }
+.hero-left{ flex:1 }
+.hero-title{ font-size:56px; line-height:1; background: linear-gradient(90deg,#f461a8,#f9b24a); -webkit-background-clip:text; -webkit-text-fill-color:transparent; margin:0 0 16px }
+.hero-desc{ color:#d6d3e8; font-size:18px; max-width:540px }
+.hero-ctas{ margin-top:20px; display:flex; gap:12px }
+
+/* Botões reutilizáveis */
+.btn{ padding:12px 22px; border-radius:28px; border:none; cursor:pointer; font-weight:700 }
+.btn.primary{ background:linear-gradient(90deg,#b983ff,#f9ca24); color:#fff }
+.btn.outline{ background:transparent; border:2px solid rgba(185,131,255,0.6); color:#fff }
+
+.hero-footer{ margin-top:18px; color:#fff }
+.hero-right{ width:380px }
+
+/* Estilos da trilha de aprendizado ficam em src/components/learningpath.css */
