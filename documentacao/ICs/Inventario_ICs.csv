@@ -1,0 +1,52 @@
+ID do IC,Nome,Tipo,Versão,Responsável,Localização
+IC-DOC01,Plano de Projeto (PP),Documento,1.0,Gerente de Projeto,https://github.com/[usuario]/Armadura-Programada/tree/main/Plano%20de%20Projeto%20Armadura%20Programada.pdf
+IC-DOC02,Documento de Requisitos (DR),Documento,1.0,Product Owner,https://github.com/[usuario]/Armadura-Programada/tree/main/Documento%20de%20Requisitos%20-%20Projeto%20Armadura%20Programada.pdf
+IC-DOC03,Especificação de Requisitos de Software (ERS),Documento,1.0,Arquiteto de Software,https://github.com/[usuario]/Armadura-Programada/tree/main/documentacao/Requisitos/Especificacao_Requisitos.docx
+IC-DOC04,Inventário de Itens de Configuração,Documento,1.0,Gerente de Configuração,https://github.com/[usuario]/Armadura-Programada/tree/main/documentacao/ICs/Inventario_ICs.csv
+IC-DOC05,Status Accounting,Documento,1.0,Gerente de Configuração,https://github.com/[usuario]/Armadura-Programada/tree/main/documentacao/ICs/Status_Accounting.md
+IC-DOC06,Matriz de Rastreabilidade,Documento,1.0,Product Owner,https://github.com/[usuario]/Armadura-Programada/tree/main/documentacao/Requisitos/Matriz_Rastreabilidade.xlsx
+IC-DOC07,Modelo de Caso de Uso,Documento,1.0,Arquiteto de Software,https://github.com/[usuario]/Armadura-Programada/tree/main/documentacao/Requisitos/Especificacao_Requisitos.docx
+IC-DOC08,Diagrama de Classes,Documento,1.0,Arquiteto de Software,https://github.com/[usuario]/Armadura-Programada/tree/main/documentacao/Requisitos/Especificacao_Requisitos.docx
+IC-DOC09,Modelo Estrutural (ERD),Documento,1.0,Arquiteto de Software,https://github.com/[usuario]/Armadura-Programada/tree/main/documentacao/Requisitos/Especificacao_Requisitos.docx
+IC-DOC10,Tabela de Necessidades (N001-N014),Documento,1.0,Product Owner,https://github.com/[usuario]/Armadura-Programada/tree/main/documentacao/Requisitos/Especificacao_Requisitos.docx
+IC-DOC11,Documentação de Arquitetura,Documento,1.0,Arquiteto de Software,https://github.com/[usuario]/Armadura-Programada/tree/main/README.md
+IC-DOC12,README.md Principal,Documento,1.0,Gerente de Projeto,https://github.com/[usuario]/Armadura-Programada/tree/main/README.md
+IC-DOC13,README.md Frontend,Documento,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/README.md
+IC-DOC14,README.md Backend,Documento,1.0,Desenvolvedor Backend,https://github.com/[usuario]/Armadura-Programada/tree/main/backend/README.MD
+IC-DOC15,LICENSE,Arquivo de Configuração,1.0,Gerente de Projeto,https://github.com/[usuario]/Armadura-Programada/tree/main/LICENSE
+IC-DOC16,package.json Raiz,Arquivo de Configuração,1.0,Gerente de Projeto,https://github.com/[usuario]/Armadura-Programada/tree/main/package.json
+IC-DOC17,package.json Frontend,Arquivo de Configuração,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/package.json
+IC-DOC18,package.json Backend,Arquivo de Configuração,1.0,Desenvolvedor Backend,https://github.com/[usuario]/Armadura-Programada/tree/main/backend/package.json
+IC-DOC19,.gitignore Raiz,Arquivo de Configuração,1.0,Gerente de Configuração,https://github.com/[usuario]/Armadura-Programada/tree/main/.gitignore
+IC-DOC20,.gitignore Frontend,Arquivo de Configuração,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/.gitignore
+IC-DOC21,.gitignore Backend,Arquivo de Configuração,1.0,Desenvolvedor Backend,https://github.com/[usuario]/Armadura-Programada/tree/main/backend/.gitignore
+IC-COD01,App.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/App.js
+IC-COD02,index.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/index.js
+IC-COD03,index.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/index.css
+IC-COD04,content.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/data/content.js
+IC-COD05,HomePage.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/pages/HomePage.js
+IC-COD06,HomePage.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/pages/HomePage.css
+IC-COD07,Header.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Header.js
+IC-COD08,Header.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Header.css
+IC-COD09,Hero.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Hero.js
+IC-COD10,Hero.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Hero.css
+IC-COD11,CodeWindow.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/CodeWindow.js
+IC-COD12,CodeWindow.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/CodeWindow.css
+IC-COD13,Stats.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Stats.js
+IC-COD14,Stats.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Stats.css
+IC-COD15,Features.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Features.js
+IC-COD16,Features.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Features.css
+IC-COD17,CTASection.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/CTASection.js
+IC-COD18,CTASection.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/CTASection.css
+IC-COD19,Footer.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Footer.js
+IC-COD20,Footer.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Footer.css
+IC-COD21,Button.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Button.js
+IC-COD22,CodeCard.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/CodeCard.js
+IC-COD23,codecard.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/codecard.css
+IC-COD24,LearningPath.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/LearningPath.js
+IC-COD25,learningpath.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/learningpath.css
+IC-COD26,Navbar.js,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/Navbar.js
+IC-COD27,navbar.css,Código Fonte,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/src/components/navbar.css
+IC-COD28,server.js,Código Fonte,1.0,Desenvolvedor Backend,https://github.com/[usuario]/Armadura-Programada/tree/main/backend/server.js
+IC-COD29,index.html,Arquivo Estático,1.0,Desenvolvedor Frontend,https://github.com/[usuario]/Armadura-Programada/tree/main/frontend-app/public/index.html
+
